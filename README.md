@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Natural Language Processing
-- 🌱 I’m currently learning Agentic AI
-- 👯 I’m looking to collaborate on Big Data and Machine Learning engineering projects
+- 🔭 I’m currently working on Data Engineering
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on Big Data and Machine Learning engineering projects 
 
 ## Skills
 
